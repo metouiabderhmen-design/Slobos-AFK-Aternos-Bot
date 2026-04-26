@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "rufousneckedwoodrail.aternos.host:56687",
+    "ip": "rufousneckedwoodrail.aternos.host",
     "port": 56687,
     "version": "",
     "try-creative": false
